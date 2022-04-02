@@ -1,0 +1,13 @@
+body{
+    background-image: url(1376.jpg);
+    background-attachment: fixed;
+    margin: 40px;
+    padding: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.kav img{
+    height: 500px;
+    width: 400px;
+    margin-right: 40px;
+}
